@@ -1,6 +1,6 @@
 {
   "name": "cordova-icon",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Automatic icon resizing for Cordova",
   "main": "index.js",
   "preferGlobal": true,
@@ -19,7 +19,7 @@
     "icon",
     "resize"
   ],
-  "author": "Alex Disler",
+  "author": "Orginal author Alex Disler",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/MPSoftDenmark/cordova-icon/issues"
